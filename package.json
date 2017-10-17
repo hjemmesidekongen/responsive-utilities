@@ -1,0 +1,18 @@
+{
+  "name": "responsive-utilities",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hjemmesidekongen/responsive-utilities.git"
+  },
+  "author": "Morten Nissen <mail@hjemmesidekongen.dk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hjemmesidekongen/responsive-utilities/issues"
+  },
+  "homepage": "https://github.com/hjemmesidekongen/responsive-utilities#readme"
+}
