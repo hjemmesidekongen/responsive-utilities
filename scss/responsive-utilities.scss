@@ -59,7 +59,7 @@
 .touchevents {
 
   .hidden-touch {
-    display: none !important;
+  	@include responsive-invisibility();
   }
 }
 
@@ -67,6 +67,6 @@
 .no-touchevents {
 
   .visible-touch {
-    display: none !important;
+  	@include responsive-invisibility();
   }
 }
